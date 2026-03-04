@@ -1,0 +1,69 @@
+# Agent OS Standards Index
+
+backend:
+  api:
+    description: Project overlay; canonical API guidance in skills/backend/references/api-design.md
+  migrations:
+    description: Project overlay; canonical migration guidance in skills/backend/references/migrations-core.md and Postgres quality gates in skills/supabase-postgres-best-practices
+  models:
+    description: Project overlay; canonical model/schema guidance in skills/backend/references/models-core.md and Postgres schema/security guidance in skills/supabase-postgres-best-practices
+  queries:
+    description: Project overlay; canonical query guidance in skills/backend/references/querying-core.md and Postgres performance guidance in skills/supabase-postgres-best-practices
+
+frontend:
+  accessibility:
+    description: Project overlay; canonical accessibility checklist in skills/frontend/references/accessibility-checklist.md
+  components:
+    description: Project overlay; canonical component heuristics in skills/frontend/references/component-heuristics.md
+  css:
+    description: Project overlay; canonical CSS guidance in skills/frontend/references/css-core.md
+  guidelines:
+    description: Project overlay; canonical UI guidance in skills/frontend/references/ui-guidelines-core.md
+  responsive:
+    description: Project overlay; canonical responsive checklist in skills/frontend/references/responsive-checklist.md
+
+global:
+  analytics-monitoring:
+    description: Project overlay; canonical analytics guidance in skills/engineering-core/references/analytics-monitoring-core.md
+  coding-style:
+    description: Project overlay; canonical coding style in skills/engineering-core/references/coding-style-core.md
+  commenting:
+    description: Project overlay; canonical commenting guidance in skills/engineering-core/references/coding-style-core.md
+  communication:
+    description: Project overlay; canonical communication guidance in skills/engineering-core/references/communication.md
+  conventions:
+    description: Project overlay; canonical development conventions in skills/engineering-core/references/coding-style-core.md
+  dependencies:
+    description: Project overlay; canonical dependency guidance in skills/engineering-core/references/dependencies-core.md
+  documentation:
+    description: Project overlay; canonical documentation guidance in skills/engineering-core/references/documentation-core.md
+  error-handling:
+    description: Project overlay; canonical error-handling guidance in skills/engineering-core/references/error-handling-core.md
+  feature-implementation:
+    description: Project overlay; canonical net-new feature guidance in skills/engineering-core/references/feature-implementation-core.md
+  feature-iteration:
+    description: Project overlay; canonical iteration guidance in skills/engineering-core/references/feature-iteration-core.md
+  feature-removal:
+    description: Project overlay; canonical removal protocol in skills/engineering-core/references/feature-removal.md
+  javascript-style:
+    description: Project-specific JavaScript style overlay
+  operational-doctrine:
+    description: Lean routing index to canonical skills and project overlays
+  pr-review:
+    description: Project PR gate overlay; canonical PR procedure in skills/pr-review/SKILL.md
+  ruby-style:
+    description: Project-specific Ruby/Rails style overlay
+  tech-stack:
+    description: Project stack snapshot
+  validation:
+    description: Project overlay; canonical validation guidance in skills/engineering-core/references/validation-core.md
+  verification:
+    description: Project overlay; canonical verification guidance in skills/engineering-core/references/verification-core.md
+
+testing:
+  debugging:
+    description: Project overlay; canonical debugging guidance in skills/testing/references/debugging-core.md
+  tests:
+    description: Project overlay; canonical testing guidance in skills/testing/references/tests-core.md
+  test-writing:
+    description: Project overlay; canonical test-writing guidance in skills/testing/references/test-writing-core.md

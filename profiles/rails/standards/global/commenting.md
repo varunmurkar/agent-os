@@ -1,0 +1,7 @@
+# Commenting Standards (Project Overlay)
+
+Canonical reusable guidance lives in `skills/engineering-core/references/coding-style-core.md`.
+
+## Project-Specific Overlay
+
+- No additional project-specific commenting rules are defined here.
